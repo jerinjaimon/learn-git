@@ -21,6 +21,8 @@ To commit the changes to git repo
 1. `git branch <new branch name>`  
 2. `git checkout <branch name>`
 
+### 5. Merge
+1. `git merge <branch name>`
 ## GitHub
 Remote repository
 
